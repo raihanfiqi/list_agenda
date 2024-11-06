@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "title": "Location A",
+      "imageUrl": "https://github.com/raihanfiqi/list_agenda/blob/main/Universitas-Negeri-Malangea7aa13eb936e571.jpg",
+      "kegiatan": "Activity A",
+      "lokasi": "Place A"
+    },
+    {
+      "title": "Location B",
+      "imageUrl": "https://github.com/raihanfiqi/list_agenda/blob/main/lafayette-coffee-and-eatery_169.png",
+      "kegiatan": "Activity B",
+      "lokasi": "Place B"
+    },
+    {
+      "title": "Location C",
+      "imageUrl": "https://github.com/raihanfiqi/list_agenda/blob/main/samantha_krida.jpg",
+      "kegiatan": "Activity C",
+      "lokasi": "Place C"
+    },
+    {
+      "title": "Location D",
+      "imageUrl": "https://github.com/raihanfiqi/list_agenda/blob/main/taman-singha-merjosari-profile1653766575.jpeg",
+      "kegiatan": "Activity D",
+      "lokasi": "Place D"
+    },
+    {
+      "title": "Location E",
+      "imageUrl": "https://github.com/raihanfiqi/list_agenda/blob/main/universitas-brawijaya-ub-malang_169.jpeg",
+      "kegiatan": "Activity E",
+      "lokasi": "Place E"
+    }
+  ]
+}
