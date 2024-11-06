@@ -1,7 +1,6 @@
 <?php
 header('Content-Type: application/json');
 
-// Array data kegiatan dan lokasi
 $data = [
     "images" => [
         [
