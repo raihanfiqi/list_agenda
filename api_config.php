@@ -37,6 +37,5 @@ $data = [
     ]
 ];
 
-// Mengonversi array PHP ke JSON
 echo json_encode($data);
 ?>
